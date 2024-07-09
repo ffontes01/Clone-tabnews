@@ -1,2 +1,2 @@
 # Clone-tabnews
-Team Mystic
+Treinamento do Curso.dev
